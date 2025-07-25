@@ -1,7 +1,7 @@
 % HeatExchanger.m
 % Analyzes a counter-flow heat exchanger to calculate heat transfer rate,
 % outlet temperatures, effectiveness, fluid flow, and optimize performance for automotive cooling.
-% Created by Uday Kaurav, May 2025, for Volvo Eicher interview preparation.
+% Created by Uday Kaurav, May 2025.
 
 % Clear workspace and command window
 clear all;
